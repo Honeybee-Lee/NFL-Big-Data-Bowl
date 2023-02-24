@@ -1,4 +1,9 @@
 # NFL-Big-Data-Bowl
+
+#### Note that this is ongoing and the notebook is incomplete and will be updated in the future when the work is complete after the competition
+
+
+
 Goal of the Competition:<br>
 
 The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have considered running backs, defensive backs, and special teams, and have generated metrics that have been used on television and by NFL teams. In this year’s competition, you’ll have more subtle performances to consider—and potentially more players to measure.<br>
